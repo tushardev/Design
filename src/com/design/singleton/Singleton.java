@@ -14,3 +14,5 @@ public class Singleton {
         return singleton;
     }
 }
+
+/*** This is example of lazy loading of singleton object. It is more efficient than eager loading*/
